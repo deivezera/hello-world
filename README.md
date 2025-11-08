@@ -2,6 +2,9 @@
 
 Small Hello world project to follow CSE310 assignments, just a demo to start using this template for future modules.
 
+Video link:
+* [Video](https://www.youtube.com/watch?v=XJdHExYpTvk)
+
 # Development Environment
 
 Typescript, React and Vite.
